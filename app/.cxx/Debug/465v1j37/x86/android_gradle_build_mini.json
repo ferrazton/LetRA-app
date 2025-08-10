@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ACER\\Documents\\Learn\\android studio\\pub-yolo-android-main\\LetRA-app\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ACER\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ACER\\Documents\\Learn\\android studio\\pub-yolo-android-main\\LetRA-app\\app\\.cxx\\Debug\\465v1j37\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ACER\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ACER\\Documents\\Learn\\android studio\\pub-yolo-android-main\\LetRA-app\\app\\.cxx\\Debug\\465v1j37\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "image_processing::@6890427a1f51a3e7e1df": {
+      "artifactName": "image_processing",
+      "abi": "x86",
+      "output": "C:\\Users\\ACER\\Documents\\Learn\\android studio\\pub-yolo-android-main\\LetRA-app\\app\\build\\intermediates\\cxx\\Debug\\465v1j37\\obj\\x86\\libimage_processing.so",
+      "runtimeFiles": []
+    }
+  }
+}
